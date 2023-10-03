@@ -1,5 +1,13 @@
-### Hi there 👋
-
+#yesidecal
+- 🔭 I’m currently working on vida
+- 🌱 I’m currently learning holiis
+- 👯 I’m looking to collaborate on con mi mama
+- 🤔 I’m looking for help with amo el estres
+- 💬 Ask me about me gusta las series
+- 📫 How to reach me: holi
+- 😄 Pronouns: Kika
+- ⚡ Fun fact: leer 
+-->
 <!--
 **yesidecal/yesidecal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
